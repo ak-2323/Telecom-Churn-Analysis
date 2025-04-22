@@ -79,10 +79,10 @@ Evaluated using:
 
 ---
 
-## Dashboard
+## Dashboard 
 
-The project includes two separate dashboards:
-dashboard/Customer Demographics & Behavior Dashboard.png
+The project includes two separate dashboards: 🔗 [View Tableau Dashboard](https://public.tableau.com/app/profile/akshay.koladiya/viz/Telecom-Churn-Analysis_17449823682630/CustomerDemographicsBehaviorDashboard)
+
 | Demographics Dashboard | Services & Billing Dashboard |
 |---------------|-------------|
 | ![Demographics Dashboard](dashboard/Customer%20Demographics%20%26%20Behavior%20Dashboard.png) | ![Services & Billing Dashboard](dashboard/Customer%20Service%20%26%20Billing%20Dashboard.png) |
