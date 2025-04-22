@@ -1,5 +1,7 @@
 # 📊 Telecom Customer Churn Analysis
 
+![Churn Img](churn-img.png)
+
 In today’s highly competitive telecom market, retaining existing customers is more crucial than ever. Customer churn when users switch to a different provider can have a major impact on a company’s revenue and growth. This project aims to develop a predictive model that identifies customers who are at risk of leaving, based on their behavior, service usage, and demographic patterns. By uncovering these insights, telecom companies can take proactive steps to improve satisfaction and reduce churn.
 
 This repository contains all the resources needed for churn analysis, including the dataset, data preprocessing, modeling code, and results. It also highlights key factors influencing churn and provides actionable strategies to enhance customer retention and loyalty.
@@ -80,10 +82,10 @@ Evaluated using:
 ## Dashboard
 
 The project includes two separate dashboards:
-
+dashboard/Customer Demographics & Behavior Dashboard.png
 | Demographics Dashboard | Services & Billing Dashboard |
 |---------------|-------------|
-| ![Demographics Dashboard]() | ![Services & Billing Dashboard]() |
+| ![Demographics Dashboard](dashboard/Customer%20Demographics%20%26%20Behavior%20Dashboard.png) | ![Services & Billing Dashboard](dashboard/Customer%20Service%20%26%20Billing%20Dashboard.png) |
 | Highlights churn behavior based on gender, seniority, and age groups. | Focuses on service usage, billing type, internet service, and customer support. |
 
 ---
